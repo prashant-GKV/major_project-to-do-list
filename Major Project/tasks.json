@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Complete Python project",
+        "description": "Finish the to-do list application",
+        "category": "Work",
+        "completed": false
+    },
+    {
+        "title": "Buy groceries",
+        "description": "Need to buy milk, eggs, and bread",
+        "category": "Personal",
+        "completed": true
+    }
+]
